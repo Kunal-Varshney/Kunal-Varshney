@@ -185,7 +185,7 @@ I don't treat bugs as setbacks — they're usually where the actual learning hap
 **🚀 CampusHub AI**
 A SaaS-style web platform focused on internships, placements, and student portfolios, with AI-assisted features.
 <br/>
-🔗 `YOUR_PROJECT_LINK`
+🔗 `https://campushub-ai-five.vercel.app/`
 
 </td>
 <td width="50%" valign="top">
@@ -221,7 +221,7 @@ A frontend clone project recreating core Spotify UI and interactions.
 **🎮 Simon Says Game**
 A JavaScript-based memory game built with interactive UI logic.
 <br/>
-🔗 `YOUR_PROJECT_LINK`
+🔗 `https://kunal-varshney.github.io/simon-game/`
 
 </td>
 <td width="50%" valign="top">
@@ -229,7 +229,7 @@ A JavaScript-based memory game built with interactive UI logic.
 **❌⭕ Tic Tac Toe**
 A classic two-player game built to practice core JS logic.
 <br/>
-🔗 `YOUR_PROJECT_LINK`
+🔗 `https://kunal-varshney.github.io/Tic-Tac-Toe-Game-/`
 
 </td>
 </tr>
