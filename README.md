@@ -182,54 +182,59 @@ I don't treat bugs as setbacks — they're usually where the actual learning hap
 <tr>
 <td width="50%" valign="top">
 
-**🚀 CampusHub AI**
+**🚀 CampusHub AI**  
 A SaaS-style web platform focused on internships, placements, and student portfolios, with AI-assisted features.
-<br/>
-🔗 `https://campushub-ai-five.vercel.app/`
+
+🔗 [Live Demo](https://campushub-ai-five.vercel.app/)
 
 </td>
+
 <td width="50%" valign="top">
 
-**🏋️ Muscle Build Gym**
+**🏋️ Muscle Build Gym**  
 A full-stack gym management platform with role-based access for admins, trainers, and members.
-<br/>
-🔗 `YOUR_PROJECT_LINK`
+
+🔗 [Live Demo](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**📈 Stock Prediction (ML)**
+**📈 Stock Prediction (ML)**  
 A machine learning based exploration into stock price prediction.
-<br/>
-🔗 `YOUR_PROJECT_LINK`
+
+🔗 [Project](YOUR_PROJECT_LINK)
 
 </td>
+
 <td width="50%" valign="top">
 
-**🎵 Spotify Clone**
+**🎵 Spotify Clone**  
 A frontend clone project recreating core Spotify UI and interactions.
-<br/>
-🔗 `YOUR_PROJECT_LINK`
+
+🔗 [Live Demo](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**🎮 Simon Says Game**
+**🎮 Simon Says Game**  
 A JavaScript-based memory game built with interactive UI logic.
-<br/>
-🔗 `https://kunal-varshney.github.io/simon-game/`
+
+🔗 [Live Demo](https://kunal-varshney.github.io/simon-game/)
 
 </td>
+
 <td width="50%" valign="top">
 
-**❌⭕ Tic Tac Toe**
+**❌⭕ Tic Tac Toe**  
 A classic two-player game built to practice core JS logic.
-<br/>
-🔗 `https://kunal-varshney.github.io/Tic-Tac-Toe-Game-/`
+
+🔗 [Live Demo](https://kunal-varshney.github.io/Tic-Tac-Toe-Game-/)
 
 </td>
 </tr>
